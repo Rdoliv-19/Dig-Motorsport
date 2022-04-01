@@ -1,0 +1,81 @@
+.dig{
+	position: absolute;
+	top: 70px;
+	left: 250px;
+	
+}
+
+header a:hover{
+	color: #c78c19;
+	text-decoration: underline;
+	font-size: 25px;
+}
+
+.serviços-menu{
+	position: absolute;
+	top: 130px;
+	right: 250px;
+	font-size: 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #000000;
+
+}
+
+.titulo-principal{
+	padding-left:20px
+}
+
+#banner{
+	width: 100%;
+}
+
+.titulo-centralizado{
+	text-align: center;
+	font-style: italic;
+
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 20px;
+}
+
+h1 {
+	text-align: left;
+	display: inline-block;
+	
+}
+
+p {
+	text-align: left;
+}
+
+strong{
+	color: red;
+}
+
+.itens{
+	font-style: italic;
+}
+
+.serviços-oferecidos{
+	padding: 20px;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+	font-size: 20px;
+}
+
+.bmw-imagem{
+	width: 50%;
+
+}
+
+html{
+	background: #cccccc;
+}
